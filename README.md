@@ -1,3 +1,3 @@
 # Learning
 just start learning GitHub
-hello git
+hello github
